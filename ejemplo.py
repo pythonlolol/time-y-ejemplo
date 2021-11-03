@@ -1,7 +1,6 @@
 from tiempo import *
 import os
 #este es un ejemplo del el modulo time
-os.system("cls")
 time(1,101)
 prueba = False
 time(1,100)
